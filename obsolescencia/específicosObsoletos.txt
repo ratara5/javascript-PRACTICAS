@@ -1,0 +1,10 @@
+.observe()
+.unobserve()
+.getNotifier()
+.watch()
+.unwatch()
+.toSource()
+escape() //la función
+unescape() //la función
+.uneval()
+.eval()

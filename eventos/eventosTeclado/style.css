@@ -1,0 +1,12 @@
+.container{
+    padding: 30px;
+    background:red
+}
+
+.input-text{
+    border:1px solid #000;
+    border-radius:5px;
+    padding: 6px;
+    color:#444;
+    outline: none !important;
+}

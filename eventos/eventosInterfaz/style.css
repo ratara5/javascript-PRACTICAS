@@ -1,0 +1,13 @@
+.container{
+    padding: 30px;
+    background:blue
+}
+.sub-container1{
+    color:green
+}
+.sub-container2{
+    color:#777;
+}
+.sub-container2 b{
+    color:red;
+}
